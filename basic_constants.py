@@ -1,0 +1,1 @@
+min_obj_size = 1
